@@ -1,0 +1,34 @@
+body {
+    background-color:darkcyan;
+    font-family: 'Lobster', cursive;
+    }
+    
+    .header_div {
+        background-color: darksalmon;
+        color: lightcoral; 
+    }
+    .header_div p {
+      font-family: 'Indie Flower', cursive;
+      color: grey;
+      letter-spacing: 2px;
+      font-size: 14;
+      font-weight: bold;
+    }
+    .main_div button {
+        font-family: 'Roboto',sans-serif;
+        width: 140px;
+        margin-top: 30px;
+        letter-spacing: 3px;
+        font-weight: bold;  
+    }
+    .copy_right_footer {
+        position: fixed;
+        background-color: salmon;
+        width: 100%;
+        font-weight: bold;
+        bottom: 0;
+        font-size: 20;
+        text-align: center;
+        line-height: 3;
+        text-shadow: 5px 5px 5px darkorchid;
+    }
